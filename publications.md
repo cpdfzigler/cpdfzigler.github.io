@@ -54,7 +54,7 @@ Ultrafast Relaxations in Ruthenium Polypyridyl Chromophores Determined by Stocha
 
 <li>Photobiological Impact of [{(bpy)<sub>2</sub>Ru(dpp)}<sub>2</sub>RhCl<sub>2</sub>]Cl<sub>5</sub> and [{(bpy)<sub>2</sub>Os(dpp)}<sub>2</sub>RhCl<sub>2</sub>]Cl<sub>5</sub> [bpy = 2,2’-bipyridine, dpp = 2,3-bis(2-pyridyl)pyrazine] on Vero Cells; A.A. Holder, D.F. Zigler, M.T. Tarrago-Trani, B. Storrie, K.J. Brewer <em>Inorg. Chem.</em> <strong>2007,</strong> <em>46,</em> 4760-2. <a href="http://dx.doi.org/10.1021/ic0619916" target="_blank">DOI: 10.1021/ic0619916</a></li>
 
-<li>A Trimetallic Supramolecular Complex of Osmium(II) and Rhodium(III) Displaying MLCT transitions in the Near-IR; D.F. Zigler, M.T. Mongelli, <strong>>M. Jeletic,</strong> K.J. Brewer <em>Inorg. Chem. Commun.</em> <strong>2007,</strong> <em>10,</em> 295-8. <a href="http://dx.doi.org/10.1016/j.inoche.2006.10.024" target="_blank">DOI: 10.1016/j.inoche.2006.10.024</a></li>
+<li>A Trimetallic Supramolecular Complex of Osmium(II) and Rhodium(III) Displaying MLCT transitions in the Near-IR; D.F. Zigler, M.T. Mongelli, <strong>M. Jeletic,</strong> K.J. Brewer <em>Inorg. Chem. Commun.</em> <strong>2007,</strong> <em>10,</em> 295-8. <a href="http://dx.doi.org/10.1016/j.inoche.2006.10.024" target="_blank">DOI: 10.1016/j.inoche.2006.10.024</a></li>
 
 <li>Supramolecular Complexes as Photoinitiated Electron Collectors: Applications in Solar Hydrogen Production; M. Elvington, J.R. Brown, D.F. Zigler, K.J. Brewer <em>Proc. SPIE</em> <strong>2006,</strong> <em>6340,</em> 63400W/1. <a href="http://dx.doi.org/10.1117/12.680982" target="_blank">DOI: 10.1117/12.680982</a></li> 
 

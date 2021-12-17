@@ -46,7 +46,7 @@ Ultrafast Relaxations in Ruthenium Polypyridyl Chromophores Determined by Stocha
 
 <li>Toward Photodynamic Therapy of Cancer with Platinum Group Metal Polyazine Complexes,  D.F. Zigler, K.J. Brewer, in <em>Metal Complexes—DNA Interactions</em>, Wiley-Blackwell, Oxford, 2009.</li>
 
-<li>Ruthenium(II)-Polyazine Light Absorbers Bridged to Reactive <em>cis</em>-Dichlororhodium(III) Centers in a Bimetallic Molecular Architecture; D.F. Zigler, J. Wang, K.J. Brewer <em>Inorg. Chem.</em> <strong>2008,</stong> <em>47</em>, 11342-50. <a href="http://dx.doi.org/10.1021/ic8007602" target="_blank">DOI: 10.1021/ic8007602</a></li> 
+<li>Ruthenium(II)-Polyazine Light Absorbers Bridged to Reactive <em>cis</em>-Dichlororhodium(III) Centers in a Bimetallic Molecular Architecture; D.F. Zigler, J. Wang, K.J. Brewer <em>Inorg. Chem.</em> <strong>2008,</strong> <em>47</em>, 11342-50. <a href="http://dx.doi.org/10.1021/ic8007602" target="_blank">DOI: 10.1021/ic8007602</a></li> 
 
 <li>Photochemical Molecular Devices Incorporating Reactive Metals as Supramolecular Solar H<sub>2</sub> Photocatalysts; D.F. Zigler, S.M. Arachchige, J. Brown, K. Rangan, <strong>E. Chang,</strong> K.J. Brewer <em>Preprints-Am. Chem. Soc., Div. Petr. Chem.</em> </strong>2008,</strong> <em>53,</em> 1-3.</li>
 

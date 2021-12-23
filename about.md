@@ -6,7 +6,7 @@ permalink: /about/
 
 ### The Group
 
-We are a group of researchers at Cal Poly - San Luis Obispo. Led by David Zigler, the group is composed entirely of undergraduate students. We work with students from a range of experiences (first year to graduating) and majors (BCHM,CHEM,EE,CSC,ME,BIO,etc). Undergraduate students interested in joining only need to show an interest in learning chemistry and desire to grow into independent scientists. 
+We are a group of researchers at Cal Poly - San Luis Obispo. Led by David Zigler, the group is composed entirely of undergraduate students. We work with students from a range of experiences (first year to graduating) and majors (BCHM, CHEM, EE, CSC, ME, BIO, etc). Undergraduate students interested in joining only need to show an interest in learning chemistry and desire to grow into independent scientists. 
 <br><br>
 Our research interests are broadly centered on the interaction of light and molecules. We study how changes at the molecular level affect how compounds absorb light, hold onto energy as an excited state, and then dissipate that energy through chemical reactions. This process is broadly called photochemistry and is important in the fields of chemical synthesis, alternative fuels, phototherapeutics, and materials processing. 
 

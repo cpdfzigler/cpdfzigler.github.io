@@ -14,6 +14,7 @@ permalink: /people/
           <tbody>
             <tr>
               <td style="vertical-align: bottom;"> <img class="img-fluid" src="https://cpdfzigler.github.io/images/DFZ_profile_thumb.jpg" alt="Image of Dr. Zigler"></td>
+              <td></br></td>
               <td> David Zigler, Ph.D. </td>
               <td><ol type="none">
                 <li><strong>Joined</strong> - Fall of 2016 </li>
@@ -23,6 +24,7 @@ permalink: /people/
             </tr>
             <tr>
               <td style="vertical-align: bottom;"> <img class="img-fluid" src="https://cpdfzigler.github.io/images/MGA_profile_thumb.jpg" alt="Image of Monica"></td>
+              <td></br></td>
               <td> Monica Aichouri </td>
               <td><ol type="none">
                 <li><strong>Joined</strong> - Fall of 2019 </li>

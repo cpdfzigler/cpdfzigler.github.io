@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### The Group
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-![Dave gets pied]({{site.baseurl}}/images/PieAProf4.jpg)
+We are a group of researchers at Cal Poly - San Luis Obispo. Led by David F. Zigler, an assistant professor of chemistry, the group is otherwise composed entirely of undergraduate students. We work with students from a range of experiences (first year to graduating) and majors (BCHM,CHEM,EE,CSC,ME,BIO,etc). Undergraduate students interested in joining only need to show an interest in learning chemistry and desire to grow into independent scientists. 
+<br><br>
+Our research interests are broadly centered on the interaction of light and molecules. We study the 
 
 ### Contact me
 

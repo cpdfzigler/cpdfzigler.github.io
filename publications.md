@@ -13,6 +13,8 @@ permalink: /pubs/
 ### Publications at Cal Poly (Undergraduate contributors are in bold)
 
 <ol reversed>
+<li>At-Home Microscale Paper-Based Quantitative Analysis Activity with External Standards. <strong>V. Schmuck, I. Romine, T. Sisley,</strong> C. Immoos, G. Scott, D.F. Zigler, A. Martinez, <em>J. Chem. Educ. <strong>Accepted</strong></em>
+</li>
 <li>Substituent Effects on the UV-Visible Spectrum and Excited Electronic States of Dithiocarboxylates; <strong>A.K. Newman, J.P. Madriaga, J.M. Sieffert, A.M. Henry, S.E. Heinrich, V.M. Swift, A.Y.Y. Cheong,</strong> M.T. Haynes, D.F. Zigler <em>Photochem. Photobiol. Sci. <strong>Accepted.</strong></em>
 </li>
 <li>

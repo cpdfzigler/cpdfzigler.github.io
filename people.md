@@ -13,8 +13,8 @@ permalink: /people/
         <table class="table table-sm text-left">
           <tbody>
             <tr>
-              <td style="vertical-align: bottom;"> <img class="img-fluid" src="https://cpdfzigler.github.io/images/DFZ_profile_thumb.jpg" alt="Image of Dr. Zigler"></td>
-              <td>-<br>-</td>
+              <td style="vertical-align: bottom;"> <img class="img-fluid" src="https://cpdfzigler.github.io/images/DFZ_profile_thumb.jpg" alt="Image of Dr. Zigler"> </td>
+
               <td> David Zigler, Ph.D. </td>
               <td>
                 <ol type="none">
@@ -25,8 +25,7 @@ permalink: /people/
               </td>
             </tr>
             <tr>
-              <td style="vertical-align: bottom;"> <img class="img-fluid" src="https://cpdfzigler.github.io/images/MGA_profile_thumb.jpg" alt="Image of Monica"></td>
-              <td>-<br>-</td>
+              <td style="vertical-align: bottom;"> &nbsp;<img class="img-fluid" src="https://cpdfzigler.github.io/images/MGA_profile_thumb.jpg" alt="Image of Monica">&nbsp; </td>
               <td> Monica Aichouri </td>
               <td>
                 <ol type="none">

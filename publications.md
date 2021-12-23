@@ -12,7 +12,7 @@ permalink: /pubs/
 
 ### Publications at Cal Poly (Undergraduate contributors are in bold)
 
-<ol reversed>
+<ol type="decimal" reversed>
 <li>At-Home Microscale Paper-Based Quantitative Analysis Activity with External Standards. <strong>V. Schmuck, I. Romine, T. Sisley,</strong> C. Immoos, G. Scott, D.F. Zigler, A. Martinez, <em>J. Chem. Educ. <strong>Accepted</strong></em>
 </li>
 <li>Substituent Effects on the UV-Visible Spectrum and Excited Electronic States of Dithiocarboxylates; <strong>A.K. Newman, J.P. Madriaga, J.M. Sieffert, A.M. Henry, S.E. Heinrich, V.M. Swift, A.Y.Y. Cheong,</strong> M.T. Haynes, D.F. Zigler <em>Photochem. Photobiol. Sci. <strong>Accepted.</strong></em>
@@ -25,7 +25,7 @@ Ultrafast Relaxations in Ruthenium Polypyridyl Chromophores Determined by Stocha
 </ol>
 
 #### Publications before Cal Poly
-<ol reversed>
+<ol type="decimal" reversed>
 <li>Ultrafast Photophysics of Mixed-Metal Polyazine Supramolecules: Os(II) or Ru(II) with Rh(III); D.F. Zigler, Z.A. Morseth, T. Canterbury, J. Rodriguez Corrales, K.J. Brewer, and J.M. Papanikolas, Inorg. Chim. Acta (Invited article for K.J. Brewer Memorial Issue) 2017, 454, 266-274. <a href="http://dx.doi.org/10.1016/j.ica.2016.06.034" target="_blank">DOI: 10.1016/j.ica.2016.06.034</a> </li>
 
 <li>Disentangling the Physical Processes Responsible for the Kinetic Complexity in Interfacial Electron Transfer of Excited Ru(II) Polypyridyl Dyes on TiO<sub>2</sub>; D.F. Zigler, Z.A. Morseth, L. Wang, D.L. Ashford, M.K. Brennaman, E.M. Grumstrup, E.C. Brigham, M.K. Gish, R.J. Dillon, L. Alibabaei, G.J. Meyer, T.J. Meyer, and J.M. Papanikolas <em>J. Am. Chem. Soc.</em> <strong>2016,</strong> <em>138,</em> 4426-4438. <a href="http://dx.doi.org/10.1021/jacs.5b12996" target="_blank">DOI: 10.1021/jacs.5b12996</a></li>

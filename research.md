@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## Research Projects
-
 Our principle interests are in the interaction of light with molecules and materials, working toward artificial photosynthesis, photoredox catalysis, bio-nanocomposite materials, novel fuels, and phototherapeutics. 
 <br>
 <br>

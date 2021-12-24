@@ -42,7 +42,7 @@ permalink: /teach/
       <li>A systematic study of chemical and physical properties of inorganic compounds based on periodic groupings with emphasis on chemical bonding and structure. Topics will include coordination chemistry and kinetics, organometallic chemistry, advanced acid-base relationships and bonding theories plus other selected topics.</li>
     </ul>
   </li>
-  <li>8. CHEM 484 - Inorganic Chemistry Laboratory
+  <li>CHEM 484 - Inorganic Chemistry Laboratory
     <ul>
       <li>Laboratory techniques in inorganic chemistry. Synthetic and analytic techniques as applied to inorganic and organometallic chemistry. 2 laboratories.</li>
     </ul>

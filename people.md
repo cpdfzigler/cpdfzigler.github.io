@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-<h3>Current Group</h3>
+<h3>Current Group (under construction)</h3>
 <div class="container-fluid">
   <div class="row">
     <div class="col-12">
@@ -41,7 +41,7 @@ permalink: /people/
   </div>
 </div>
 
-<h3>Alumni</h3>
+<h3>Alumni (under construction)</h3>
 <div class="container-fluid">
   <div class="row">
     <div class="col-12">

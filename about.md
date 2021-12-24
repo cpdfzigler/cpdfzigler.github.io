@@ -21,7 +21,7 @@ Our research interests are broadly centered on the interaction of light and mole
 
 See also Dr. Zigler's [Faculty Page](https://chemistry.calpoly.edu/content/faculty/zigler_david)
 
-### The Principle Investigator
+### The Principal Investigator
 
 David (Dave) F. Zigler is an assistant professor of chemistry at California Polytechnic State University. He completed a B.S. in chemistry with biochemistry concentration at Eastern Illinois University in 2003, followed by a Ph.D. in chemistry at Virginia Tech in 2008. He continued his training with postdoctoral appointments at UC - Santa Barbara (first row coordination chemistry and quantum dots) and UNC - Chapel Hill (time-resolved EPR, ultrafast microscopy, fs-transient absorption spectrscopy). At Cal Poly, Dr. Zigler teaches general chemistry and inorganic chemistry. His research interests are derived from a desire to understand the photophysics and photochemistry of small molecules and interfaces. 
 <p> Link to recent <a href="https://cpdfzigler.github.io/documents/DFZ_Public_CV.pdf" target="_blank">curriculum vitae</a>
